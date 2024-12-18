@@ -114,7 +114,7 @@ export default function About() {
                 Meet Our Founder
               </h2>
               <p className="text-gray-600">
-                Nathaniel Brookes, the visionary behind ShipFast, started his
+                Brookes Friend, the visionary behind ShipFast, started his
                 journey in the shipping industry with a single truck and a dream
                 to revolutionize global logistics. With over 25 years of
                 experience in international trade and logistics, James has
@@ -125,11 +125,11 @@ export default function About() {
                 "I believe that efficient logistics is the backbone of global
                 commerce. Our mission is to connect businesses and people across
                 borders, making international trade accessible to everyone." -
-                Nathaniel Brookes
+                Brookes Friend
               </p>
               <div className="flex items-center space-x-4">
                 <div className="text-sm text-gray-600">
-                  <div className="font-semibold">Nathaniel Brookes</div>
+                  <div className="font-semibold">Brookes Friend</div>
                   <div>Founder & CEO</div>
                 </div>
               </div>
@@ -141,7 +141,7 @@ export default function About() {
             >
               <img
                 src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-                alt="Nathaniel Brookes, Founder of ShipFast"
+                alt="Brookes Friend, Founder of ShipFast"
                 className="rounded-lg shadow-xl"
               />
             </motion.div>
